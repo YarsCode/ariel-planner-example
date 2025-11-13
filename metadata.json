@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Financial Goal Planner (Hebrew)",
+  "description": "An application to help users plan their financial future by setting goals, calculating required savings, and suggesting investment strategies. The application is in Hebrew and uses Gemini API for generating a plan summary.",
+  "requestFramePermissions": []
+}
